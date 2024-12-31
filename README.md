@@ -9,4 +9,4 @@ On the UI sheet, pressing "screensaver" will cause the simulated annealer to cre
 
 On the NN sheet, the buttons perform the same action but the various matrices used to perform the majority of calculates are visible.
 
-On the NN sheet, if you press "test" you will see 10 routes generate for 14 cities (the most probably number the model will successfully generate). The routes will be displayed as projections in 20 dimension latent space.
+On the NN sheet, if you press "test" you will see 10 routes generate for 14 cities (the most probably number the model will successfully generate). The routes will be displayed as projections in 20 dimensional latent space.
