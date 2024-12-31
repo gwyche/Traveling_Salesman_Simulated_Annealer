@@ -1,5 +1,5 @@
 # Traveling_Salesman_Simulated_Annealer
-Simulated annealer that solves the traveling salesman problem for up to 20 cities
+VBA Simulated annealer that solves the traveling salesman problem for up to 20 cities
 
 On the UI sheet, pressing "minimize energy" will cause the simulated annealer to create a solution for 20 cities that attempts to minimize total travel distance.
 
